@@ -7,16 +7,16 @@
 	
 ## **About me** 🙋‍♂️
 
-- Third year Softwar Systems Engineering Student.
-- Interests lies within blockchain technology.
-- Currently learning Advanced Data Structures and MVC Project Managment
-- Actively searching for Co-Op or Internship oppurtunities for January 2024.
+🎓 Third-year Software Systems Engineering student.
 
+📚 Learning Advanced Data Structures and MVC Project Management.
+
+🌟 Actively seeking Co-Op or Internship opportunities for January 2024.
 ## **Skills** 💻
 
 <p align="center">
 
-- **Languages**:
+- **Programming Languages**:
 
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -39,7 +39,7 @@
 
 ## **Let's Connect!** 🤝
 
-* **Feel free to contact me:**
+* **Feel free to reach out to me**
 
   <a href="https://linkedin.com/in/muhammadtq" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
