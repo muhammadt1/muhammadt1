@@ -10,7 +10,7 @@
 
 🎓 Third-year Software Systems Engineering student.
 
-📚 Learning Advanced Data Structures and MVC Project Management.
+📚 Learning Advanced Data Structures and MVC Project Architecture.
 
 🌟 Actively seeking Co-Op or Internship opportunities for January 2024.
 ## **Skills** 💻
