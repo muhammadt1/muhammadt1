@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineering+Student;Tech+Steward;Life+Long+Learner" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineering+Student;Tech+Enthusiast;Life+Long+Learner" alt="Typing SVG" /></a>
 </p>
 	
 ## **About me** 🙋‍♂️
@@ -41,7 +41,7 @@
 
 ## **Let's Connect!** 🤝
 
-* **Feel free to reach out to me**
+* **Feel free to reach out to me:**
 
   <a href="https://linkedin.com/in/muhammadtq" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
