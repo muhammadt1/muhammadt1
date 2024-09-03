@@ -2,17 +2,15 @@
 <h1 align="center"><b>Hi, I'm Muhammad Tariq</b> 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineering+Student;Tech+Enthusiast;Life+Long+Learner" alt="Typing SVG" /></a>
-</div>
+
 	
 ## **About me** 🙋‍♂️
 
-🎓 Third-year Software Systems Engineering student.
+🎓 Software Systems Engineering student.
 
-📚 Learning Advanced Data Structures and MVC Project Architecture.
+📚 Currently learning Fundamentals of Computer Systems Architecture and Machine Learning via Cloud Platforms.
 
-🌟 Actively seeking Co-Op or Internship opportunities for January 2024.
+🌟 Actively seeking Co-Op or Internship opportunities for January 2025.
 ## **Skills** 💻
 
 <p align="center">
